@@ -1,6 +1,6 @@
 # Word Squiggle — Privacy Policy
 
-_Last updated: 28 September 2026_
+_Last updated: 7 October 2026_
 
 Word Squiggle ("the app") is operated by Jason Boyd ("we", "us").
 
@@ -18,11 +18,11 @@ The Ranks screen lets you join a global leaderboard. Nothing is sent until you t
 
 - **the nickname you choose**, which is shown publicly on the leaderboard;
 - **a random ID created on your device**, so your scores stay together (it isn't linked to your name, email, Google account or device identifiers);
-- **your best scores**: words discovered, best combo and total score.
+- **your best scores**: words discovered, best combo, total score and your daily puzzle score.
 
 We use this data only to run the leaderboard. The leaderboard is hosted by [Talo](https://trytalo.com), which processes the data on our behalf; see [Talo's privacy policy](https://trytalo.com/privacy). Like any web service, Talo's servers receive your IP address when the app connects; we don't use it to identify you. Data is encrypted in transit.
 
-You can leave at any time in **Settings → Leaderboard → Leave**. The app then stops sending scores and forgets its random ID. To remove your nickname and scores from the leaderboard, email us with your nickname and we'll delete them.
+You can leave at any time in **Settings → Leaderboard → Leave**. The app then deletes your nickname from the leaderboard, stops sending scores and forgets its random ID. Your past scores stay on the leaderboard as an anonymous "Player", with nothing linking them to you. If you'd like those scores deleted too, email us your nickname **before** you leave (afterwards we can no longer tell which scores were yours) and we'll delete them.
 
 ## Data we do not collect
 
@@ -39,7 +39,7 @@ If you choose **Settings → Send feedback**, your own email app opens a message
 
 ## Deleting your data
 
-Uninstalling Word Squiggle, or clearing its storage in Android settings, permanently deletes your progress on the device. If you joined the leaderboard, email us your nickname and we'll delete your leaderboard entries too.
+Uninstalling Word Squiggle, or clearing its storage in Android settings, permanently deletes your progress on the device. If you joined the leaderboard, **Leave** in Settings deletes your nickname, and you can email us your nickname before leaving to have your scores deleted as well (see above).
 
 ## Children
 
