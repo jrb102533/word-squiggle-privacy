@@ -17,7 +17,7 @@ Your game progress (your word collection, currency, upgrades, levels, prestige s
 The Ranks screen lets you join a global leaderboard. Nothing is sent until you tap **Join**. If you join, the app sends:
 
 - **the nickname you choose**, which is shown publicly on the leaderboard;
-- **a random ID created on your device**, so your scores stay together (it isn't linked to your name, email, Google account or device identifiers);
+- **a random ID created on your device**, so your scores stay together (it isn't linked to your name, email, Google account, Apple Account or device identifiers);
 - **your best scores**: words discovered, best combo, total score and your daily puzzle score.
 
 We use this data only to run the leaderboard. The leaderboard is hosted by [Talo](https://trytalo.com), which processes the data on our behalf; see [Talo's privacy policy](https://trytalo.com/privacy). Like any web service, Talo's servers receive your IP address when the app connects; we don't use it to identify you. Data is encrypted in transit.
@@ -29,17 +29,17 @@ You can leave at any time in **Settings → Leaderboard → Leave**. The app the
 - No advertising: the app shows no ads and doesn't use your device's advertising ID.
 - No analytics or tracking of any kind, and no cookies or fingerprinting.
 - No accounts, and no name, email address or contact details (unless you email us).
-- No location, contacts, photos or other device data. The only Android permission the app requests is internet access, for the leaderboard.
+- No location, contacts, photos or other device data. On Android, the only permission the app requests is internet access, for the leaderboard. On iPhone, it asks for no permissions at all.
 
 We don't sell or share data with anyone.
 
 ## Feedback emails
 
-If you choose **Settings → Send feedback**, your own email app opens a message to us. The draft includes your device model and Android version to help us reproduce problems, and you can remove them before sending. If you send it, we receive your email address and whatever you write, and use them only to reply and to improve the game. We don't add you to any mailing list, and we'll delete your emails on request.
+If you choose **Settings → Send feedback**, your own email app opens a message to us. The draft includes your device model and operating system (Android or iOS) to help us reproduce problems, and you can remove them before sending. If you send it, we receive your email address and whatever you write, and use them only to reply and to improve the game. We don't add you to any mailing list, and we'll delete your emails on request.
 
 ## Deleting your data
 
-Uninstalling Word Squiggle, or clearing its storage in Android settings, permanently deletes your progress on the device. If you joined the leaderboard, **Leave** in Settings deletes your nickname, and you can email us your nickname before leaving to have your scores deleted as well (see above).
+Deleting Word Squiggle from your iPhone, or uninstalling it or clearing its storage on Android, permanently deletes your progress on the device. If you joined the leaderboard, **Leave** in Settings deletes your nickname, and you can email us your nickname before leaving to have your scores deleted as well (see above).
 
 ## Children
 
